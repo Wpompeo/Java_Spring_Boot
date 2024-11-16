@@ -23,20 +23,14 @@ public class Game {
 	private Double score;
 	private String genre;
 	private String imgUrl;	
+	
 	@Column(columnDefinition = "TEXT")
 	private String longDescription;
+	
 	private String platforms;
+	
 	@Column(columnDefinition = "TEXT")
-	private String shortDescription;
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	private String shortDescription;	
 	
 	//construtor sem argumento
 	public Game() {		
