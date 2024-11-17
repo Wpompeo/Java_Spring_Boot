@@ -1,9 +1,8 @@
-package com.devsuperior.dslist;
+package com.devsuperior.dslist.dto;
 
 import com.devsuperior.dslist.entities.Game;
 
-public class GameMinDTO {
-	
+public class GameMinDTO {	
 
 	private Long id;
 	private String title;
@@ -40,12 +39,6 @@ public class GameMinDTO {
 
 	public String getShortDescription() {
 		return shortDescription;
-	}
-	
-	
-	
-	
-	
-	
+	}	
 
 }
