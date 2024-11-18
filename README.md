@@ -13,9 +13,20 @@ Screenshots
 <img src="https://github.com/user-attachments/assets/85a46931-5d49-4ced-9a17-08cf7d3fc2d9" width=200/>
 <img src="https://github.com/user-attachments/assets/f781be85-540f-4175-8389-33d1b3197235" width=200/>
 
+## Relacionamentos
+<img src="https://github.com/user-attachments/assets/1da60eb2-a207-47c7-b93a-dcf9e11f92f0" width=200/>
 
 
-## Tecnologias
+## Modelo de Objetos
+<img src="https://github.com/user-attachments/assets/dc4bd4b8-75fb-48a7-85c6-883b1d593f08" width=200/>
+
+
+## Modelo Relacional
+<img src="https://github.com/user-attachments/assets/0a2f091c-a5aa-4f24-8f3f-f2757c916488" width=200/>
+
+
+# Tecnologias
+## Back end
 
 - Java
 - Spring Boot
